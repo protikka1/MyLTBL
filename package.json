@@ -30,16 +30,10 @@
     "url": "git+https://github.com/protikka1/MyLTBL.git"
   },
   "keywords": [
-    "A",
-    "React",
-    "web",
-    "application",
-    "with",
-    "Firebase",
-    "integration",
-    "built",
-    "using",
-    "Vite.\""
+    "react",
+    "firebase",
+    "vite",
+    "web-app"
   ],
   "author": "Abul Islam",
   "license": "ISC",
